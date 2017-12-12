@@ -25,6 +25,3 @@ if(a_to_vk)
 {a_to_vk.innerHTML+=a_to_va;}}
 function a_to_fa()
 {var a_to_vf=new Array();protected_links=protected_links.replace(" ","");a_to_vf=protected_links.split(",");return a_to_vf;}
-
-© Tutorial Lengkap Cara Membuat Safelink Converter di Blogspot Terbaru - Seciko
-Source: http://www.seciko.id/2017/12/tutorial-lengkap-cara-membuat-safelink.html
