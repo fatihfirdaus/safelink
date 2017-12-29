@@ -25,7 +25,7 @@ if(x=="3"){xxx="/2017/12/adobe-photoshop-cs5-x86x64-portable.html"}
 if(x=="4"){xxx="/2017/12/cara-mengaktifkan-ok-google-di_28.html"}
 if(x=="5"){xxx="/2017/12/cara-membuat-pbn-yang-baik-untuk-seo.html"}
 if(x=="6"){xxx="/2017/12/download-film-horor-gerbang-neraka-2017.html"}
-if(x=="7"){xxx="/2017/12/windows-10-cara-menonaktifkan-iklan.html"}
+if(x=="7"){xxx="/2017/12/cara-mengatasi-hp-android-telepon-tidak.html"}
 if(x=="8"){xxx="/2017/12/cara-membuat-related-post-menggunakan.html"}
 if(x=="9"){xxx="/2017/12/undead-seo-useful-tools-techniques-and_28.html"}
 if(x=="10"){xxx="/2017/12/download-game-grim-dawn-full-version-pc.html"}
