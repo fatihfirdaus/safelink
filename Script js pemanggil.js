@@ -24,7 +24,7 @@ if(x=="2"){xxx="/2017/12/tomb-raider-legend-reloaded-242-gb_28.html"}
 if(x=="3"){xxx="/2018/01/cara-menggunakan-hishoot-template.html"}
 if(x=="4"){xxx="/2018/01/cara-melakukan-riset-kata-kunci-tanpa.html"}
 if(x=="5"){xxx="/2018/01/amazing-diet-nanas-bisa-menurunkan.html"}
-if(x=="6"){xxx="/2017/12/download-film-horor-gerbang-neraka-2017.html"}
+if(x=="6"){xxx="/2018/01/inilah-alasannya-mengapa-kita_7.html"}
 if(x=="7"){xxx="/2017/12/cara-mengatasi-hp-android-telepon-tidak.html"}
 if(x=="8"){xxx="/2017/12/cara-membuat-related-post-menggunakan.html"}
 if(x=="9"){xxx="/2017/12/undead-seo-useful-tools-techniques-and_28.html"}
