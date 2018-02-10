@@ -21,7 +21,7 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);var x=Math.floor((Math.random()*20)+ 1);var xxx=null;
 if(x=="1"){xxx="/2017/12/mini-game-untuk-microsoft-excel.html"}
 if(x=="2"){xxx="/2017/12/tomb-raider-legend-reloaded-242-gb_28.html"}
-if(x=="3"){xxx="/2017/12/adobe-photoshop-cs5-x86x64-portable.html"}
+if(x=="3"){xxx="/2018/01/cara-menggunakan-hishoot-template.html"}
 if(x=="4"){xxx="/2017/12/cara-mengaktifkan-ok-google-di_28.html"}
 if(x=="5"){xxx="/2017/12/cara-membuat-pbn-yang-baik-untuk-seo.html"}
 if(x=="6"){xxx="/2017/12/download-film-horor-gerbang-neraka-2017.html"}
